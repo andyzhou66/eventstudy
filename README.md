@@ -17,3 +17,5 @@ Go through the [Get started section](https://lemairejean-baptiste.github.io/even
 examples how to use the `eventstudy` package to run your event study for a single event or a sample of events.
 
 Read the [API guide](https://lemairejean-baptiste.github.io/eventstudy/api/index.html) for more details on functions and their parameters.
+
+add test parts
